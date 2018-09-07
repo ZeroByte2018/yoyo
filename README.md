@@ -1,18 +1,19 @@
-# yoyo-app
+# 技术栈
+> vue全家桶（vue.js、vue-router、 vue-resource、 vuex）
+> Bootstrap布局
 
-> A Vue.js project
+# 数据库选取
+> 由于数据库用的是Firebase，所以要科学上网才能正常查看。
 
-## Build Setup
+# 安装
 
 ``` bash
-# install dependencies
-npm install
+# 安装项目依赖
+npm install或cnpm install
 
-# serve with hot reload at localhost:8080
+# 启动服务
 npm run dev
 
-# build for production with minification
-npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
