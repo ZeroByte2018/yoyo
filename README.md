@@ -1,5 +1,5 @@
 # 技术栈
-> vue全家桶（vue.js、vue-router、 vue-resource、 vuex）
+> vue全家桶（vue.js、axios、 vue-resource、 vuex）
 > Bootstrap布局
 
 # 数据库选取
