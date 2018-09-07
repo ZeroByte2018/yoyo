@@ -1,4 +1,4 @@
-# pizza-app
+# yoyo-app
 
 > A Vue.js project
 
